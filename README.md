@@ -1,8 +1,11 @@
 # Kenya Human Development Analysis (2000-2024)
 
+## Objective
+To analyze Kenya’s development trends between 2000–2024 by combining economic, social, and demographic indicators, and to uncover patterns in growth, inequality, and human well-being.
+
 ## Project Overview
-This project analyzes Kenya's human development indicators (2000-2024) 
-using World Bank official data.
+This project explores Kenya’s development trends (2000–2024) by analyzing key indicators such as GDP per capita, life expectancy, poverty rate, and education.
+The analysis combines data cleaning, SQL-based transformations, and interactive visualization to identify long-term growth patterns and socio-economic changes.
 
 ## Tools Used
 - Google Sheets — data cleaning, Wide to Long format transformation
@@ -13,7 +16,7 @@ using World Bank official data.
 - World Bank Development Indicators (databank.worldbank.org)
 
 ## Tableau Dashboard
-[View Interactive Dashboard] https://public.tableau.com/views/KenyaHumanDevelopmentAnalysis2000-2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[🔗 View Interactive Dashboard] https://public.tableau.com/views/KenyaHumanDevelopmentAnalysis2000-2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## SQL Queries
 - JOIN: Combined GDP and poverty tables
@@ -22,7 +25,8 @@ using World Bank official data.
 - RANK: GDP ranking by year
 
 ## Key Insights
-- Kenya GDP grew 5x from $414 (2000) to $2132 (2024)
-- Life expectancy improved from 56 to 64 years
-- Poverty rate decreased as GDP grew
-- School enrollment dropped in 2019-2020 due to COVID-19
+
+- Kenya’s GDP per capita increased more than 5x from 2000 to 2024, showing strong long-term economic growth.
+- Life expectancy steadily improved, indicating better healthcare and living conditions.
+- Despite GDP growth, poverty reduction was not consistently aligned, suggesting uneven wealth distribution.
+- A noticeable disruption appears around 2019–2020, likely linked to COVID-19’s impact on education and economic stability.
