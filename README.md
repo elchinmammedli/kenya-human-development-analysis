@@ -13,7 +13,7 @@ using World Bank official data.
 - World Bank Development Indicators (databank.worldbank.org)
 
 ## Tableau Dashboard
-[View Interactive Dashboard](BURAYA TABLEAU LİNKİNİ YAPISTIR)
+[View Interactive Dashboard] https://public.tableau.com/views/KenyaHumanDevelopmentAnalysis2000-2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## SQL Queries
 - JOIN: Combined GDP and poverty tables
