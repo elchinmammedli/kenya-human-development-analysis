@@ -7,6 +7,8 @@ To analyze Kenya’s development trends between 2000–2024 by combining economi
 This project explores Kenya’s development trends (2000–2024) by analyzing key indicators such as GDP per capita, life expectancy, poverty rate, and education.
 The analysis combines data cleaning, SQL-based transformations, and interactive visualization to identify long-term growth patterns and socio-economic changes.
 
+![Preview](1_join_gdp_poverty.png.png)
+
 ## Tools Used
 - Google Sheets — data cleaning, Wide to Long format transformation
 - SQL (SQLite) — JOIN, GROUP BY, CASE WHEN, Subquery, RANK
